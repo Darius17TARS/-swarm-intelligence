@@ -4,7 +4,7 @@ from random import randint
 import pygame as py
 
 '''
-PyNBoids - my original Boids simulation - https://github.com/Darius17TARS/-swarm-intelligence
+Swarm Intelligence - https://github.com/Darius17TARS/-swarm-intelligence
 Copyright (c) 2021  Darius Rücker  Dariusrueckercontact@gmail.com
 '''
 
