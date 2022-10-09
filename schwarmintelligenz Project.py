@@ -5,7 +5,6 @@ import pygame as py
 
 '''
 Swarm Intelligence - https://github.com/Darius17TARS/-swarm-intelligence
-Copyright (c) 2021  Darius Rücker  Dariusrueckercontact@gmail.com
 '''
 
 
